@@ -1,3 +1,5 @@
+# This is a WIP project, it currently does not work.
+
 # Bulk_JXRtoJXL
 
 A Python-based tool to convert HDR `.jxr` screenshots to `.jxl`, preserving all HDR data.
